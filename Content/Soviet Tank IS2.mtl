@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.07.2019 14:10:33
+
+newmtl tex_ussr_is2_track_m
+	Ns 43.219280
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.200000 0.200000 0.200000
+	Kd 0.800000 0.800000 0.800000
+	Ks 0.200000 0.200000 0.200000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka mat2_c.jpg
+	map_Kd mat2_c.jpg
+
+newmtl tex_ussr_is2_body_M
+	Ns 43.219280
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.200000 0.200000 0.200000
+	Kd 0.800000 0.800000 0.800000
+	Ks 0.200000 0.200000 0.200000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\mviewer-master\_Work\Stagecoach\Stagecoach\mat1_c.jpg
+	map_Kd D:\mviewer-master\_Work\Stagecoach\Stagecoach\mat1_c.jpg
+
+newmtl Default
+	Ns 43.219280
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.200000 0.200000 0.200000
+	Kd 0.800000 0.800000 0.800000
+	Ks 0.200000 0.200000 0.200000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\mviewer-master\_Work\Stagecoach\Stagecoach\mat0_c.jpg
+	map_Kd D:\mviewer-master\_Work\Stagecoach\Stagecoach\mat0_c.jpg

@@ -1,0 +1,9 @@
+newmtl Default
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl tex_ussr_is2_body_M
+map_Ka mat1_c.jpg
+map_Kd mat1_c.jpg
+newmtl tex_ussr_is2_track_m
+map_Ka mat2_c.jpg
+map_Kd mat2_c.jpg
